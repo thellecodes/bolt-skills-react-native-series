@@ -88,7 +88,7 @@ const Balance = ({navigation}) => {
               fontSize: 15,
               fontWeight: '700',
             }}>
-            Balance
+              Expense
           </Text>
           <Text
             style={{
